@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 👯 I’m looking forward to **be a part of various interesting projects.**
 * 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
 
-<img alt="GIF" src="https://github.com/rahulvarma5297/rahulvarma5297/blob/main/hadder.gif?raw=true" width="500"/> 
+<img alt="GIF" src="https://github.com/varunvaibhavv/varunvaibhavv/blob/main/hadder.gif?raw=true" width="500"/> 
 
 <hr/>
 
@@ -20,8 +20,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=html,css,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,mongodb" />
     <img src="https://skillicons.dev/icons?i=vscode,intellij" />
   </a>
          
