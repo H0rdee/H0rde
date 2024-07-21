@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Varun Vaibhav
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name is Varun Vaibhav
 ===================================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvarma5297&label=Profile%20views&color=0e75b6&style=flat" alt="rahulvarma5297" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvarma5297&label=Profile%20views&color=0e75b6&style=flat" alt="varunbaibhavv" /> </p>
 
-**I am currently pursuing my Diploma degree in Compute Science & Engineering from Government Polytechnic Muzaffarpur**
+**I am currently pursuing my Diploma degree in Computer Science & Engineering from Government Polytechnic Muzaffarpur**
 
 * 🌍  I'm based in **Muzaffarpur**
 * ✉️  You can contact me at [varun7058@gmail.com](mailto:varun7058@gmail.com)
-* 🧠 I am an **open-source enthusiast** and an aspiring **Front End developer** along with other skills like HTML, CSS, C, C++, Java, Javascript, Python, MySQL and MongoDB.
+* 🧠 I am an **open-source enthusiast** and an aspiring **Front End developer** along with other skills like C, C++, Java, Javascript, Python, MySQL and MongoDB.
 * 🌱 I’m currently focusing on **Web Development.**
 * 👯 I’m looking forward to **be a part of various interesting projects.**
 * 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
@@ -22,7 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,java" />
     <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,mongodb" />
-    <img src="https://skillicons.dev/icons?i=vscode,intellij" />
+    <img src="https://skillicons.dev/icons?i=vscode,intellij,replit,leetcode" />
   </a>
          
 </p>
