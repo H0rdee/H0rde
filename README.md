@@ -7,8 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in **Muzaffarpur**
 * ✉️  You can contact me at [varun7058@gmail.com](mailto:varun7058@gmail.com)
-* 🧠 I am an **open-source enthusiast** and an aspiring **Front End developer** along with other skills like C, C++, Java, Javascript, Python, MySQL and MongoDB.
-* 🌱 I’m currently focusing on **Web Development.**
+* 🧠 I am an **open-source enthusiast** and an aspiring **Back End developer** along with other skills like C, C++, Python, Java, HTML, CSS, Javascript.
+* 🌱 I’m currently focusing on **Back End Development.**
 * 👯 I’m looking forward to **be a part of various interesting projects.**
 * 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
 
