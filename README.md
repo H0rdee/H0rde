@@ -21,8 +21,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,java" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,mongodb" />
-    <img src="https://skillicons.dev/icons?i=vscode,replit" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,postgresql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,intellij,replit" />
   </a>
          
 </p>
