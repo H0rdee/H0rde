@@ -20,9 +20,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,java" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,postgresql,mongodb" />
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,intellij,replit" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,expressjs,mysql,postgresql,mongodb,web3" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,intellijidea,replit" />
   </a>
          
 </p>
